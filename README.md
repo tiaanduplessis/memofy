@@ -3,10 +3,14 @@
 <div align="center">
   <strong>Memoize a function</strong>
 </div>
+<br>
 <div align="center">
   <a href="https://npmjs.org/package/@tiaanduplessis/memofy">
     <img src="https://img.shields.io/npm/v/@tiaanduplessis/memofy.svg?style=flat-square" alt="npm package version" />
   </a>
+  <a href="https://codecov.io/gh/tiaanduplessis/memofy">
+  <img src="https://codecov.io/gh/tiaanduplessis/memofy/branch/master/graph/badge.svg" alt="Codecov" />
+</a>
   <a href="https://npmjs.org/package/@tiaanduplessis/memofy">
   <img src="https://img.shields.io/npm/dm/@tiaanduplessis/memofy.svg?style=flat-square" alt="npm downloads" />
   </a>
