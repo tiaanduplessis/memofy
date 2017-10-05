@@ -58,6 +58,8 @@
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/memofy.svg)](https://greenkeeper.io/)
+
 ```sh
 $ npm install @tiaanduplessis/memofy
 # OR
